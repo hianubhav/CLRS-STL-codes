@@ -1,0 +1,2 @@
+You can contribute to this repository by adding codes for algorithms not included in the repository or commenting the code for better readablity.
+Please let me know if you come to see at bugs in the code.
